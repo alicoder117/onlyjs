@@ -1,3 +1,3 @@
 const register = () => {
-  return false
+  return false false false
 }
